@@ -1,2 +1,2 @@
 # hello-world
-it is a demo repo
+It is a demo repo.
